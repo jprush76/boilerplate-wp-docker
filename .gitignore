@@ -1,0 +1,6 @@
+/wordpress/*
+!/wordpress/README.md
+
+/nginx/certs/*.pem
+
+/mysql/*
